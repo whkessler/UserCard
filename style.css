@@ -1,0 +1,60 @@
+.container{
+    height: 250px;
+    width: 500px;
+    border: gray solid;
+
+}
+.box1 img{
+    height: 70px;
+    width: 70px;
+    position: fixed;
+    top: 40px;
+    left: 35px;
+    
+}
+.box1{
+    height: 60px;
+    width: 500px;
+    background-color: steelblue;
+}
+.box2 img{
+    height: 15px;
+    width: 10px;
+}
+.box2 h2{
+    position: fixed;
+    left: 35px;
+    top: 95px;
+    
+}
+.box2 h3{
+    position: fixed;
+    left: 60px;
+    top: 130px;
+}
+.marker{
+    position: fixed;
+    left: 35px;
+    top: 153px;
+}
+.line1{
+    position: fixed;
+    left: 35px;
+    top: 155px;
+
+}
+.line2{
+    position: fixed;
+    left: 35px;
+    top: 175px;
+}
+.line3{
+    position: fixed;
+    left: 60px;
+    top: 225px;
+}
+.gear{
+    position: fixed;
+    top: 225px;
+    left: 40px;
+}
